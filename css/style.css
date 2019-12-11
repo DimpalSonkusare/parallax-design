@@ -1,0 +1,60 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.menubar {
+    width: 100%;
+}
+
+.menu-container {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.logo {
+    width: 40%;
+    float: left;
+}
+
+.menus {
+    width: 60%;
+    float: left;
+    overflow: auto;
+}
+
+.menu {
+    width: 20%;
+    float: left;
+    padding: 10px;
+}
+
+.main-div {
+    height: 100%;
+    width: 100%;
+    background-image: url(https://www.crmbrokers.com.au/wp-content/uploads/2017/11/Travel.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.container{
+    width:80%;
+    margin: auto;
+    padding: 200px;
+}
+.title{
+    width: 100%;
+    margin: auto;
+    color: white;
+}
+.content{
+    width: 100%;
+    margin: 40px auto;
+    text-align: center;
+}
