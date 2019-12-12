@@ -22,6 +22,7 @@ html {
 .logo {
     width: 40%;
     float: left;
+    padding: 10px;
 }
 
 .menus {
@@ -34,27 +35,150 @@ html {
     width: 20%;
     float: left;
     padding: 10px;
+    text-align: center;
+}
+.underline{
+    text-decoration: none;
+    color: black;
 }
 
 .main-div {
-    height: 100%;
     width: 100%;
     background-image: url(https://www.crmbrokers.com.au/wp-content/uploads/2017/11/Travel.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
-.container{
-    width:80%;
+
+.container {
+    width: 80%;
     margin: auto;
-    padding: 200px;
+    padding: 255px;
 }
-.title{
+
+.title {
     width: 100%;
     margin: auto;
-    color: white;
 }
-.content{
+
+.content {
     width: 100%;
     margin: 40px auto;
     text-align: center;
 }
+
+.read {
+    width: 100%;
+    margin: auto;
+    text-align: center;
+}
+
+.block2 {
+    background-image: url(https://thedragontrip.com/wp-content/uploads/2018/04/18Nikko-cyuzenji-lake-1024x683.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container2 {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.img1 {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 40px;
+}
+
+.contents {
+    width: 50%;
+    padding: 40px;
+    float: left;
+}
+
+.container3 {
+    width: 80%;
+    margin: auto;
+    overflow: auto;
+}
+
+.img2 {
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding: 40px;
+}
+
+.caption {
+    text-align: center;
+    padding: 200px;
+}
+
+.block3 {
+    height: 100%;
+    background-image: url(https://images.pexels.com/photos/258109/pexels-photo-258109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container4 {
+    width: 80%;
+    margin: auto;
+}
+
+.block4 {
+    background-image: url(https://images.pexels.com/photos/1054222/pexels-photo-1054222.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top;
+}
+
+.container5 {
+    width: 80%;
+    margin: auto;
+    padding: 50px;
+}
+
+.content-block {
+    padding: 40px;
+    color: black;
+    text-align: center;
+
+}
+
+/*
+.footer {
+    width: 100%;
+    background-color: #232323;
+}
+
+.footer-container {
+    width: 80%;
+    margin: auto;
+}
+
+.follow {
+    text-align: center;
+    padding: 50px;
+    color: white;
+}
+
+.social-media-block {
+    width: 15%;
+    margin: auto;
+}
+
+.social-media {
+    width: 100%;
+    float: right;
+    padding: 10px;
+    margin: auto;
+    overflow: auto;
+}
+
+.fb-icon {
+    width: 25%;
+    float: left;
+}
+*/
