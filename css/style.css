@@ -11,6 +11,7 @@ html {
 
 .menubar {
     width: 100%;
+    background-color: firebrick;
 }
 
 .menu-container {
@@ -39,7 +40,7 @@ html {
 }
 .underline{
     text-decoration: none;
-    color: black;
+    color: white;
 }
 
 .main-div {
@@ -47,6 +48,7 @@ html {
     background-image: url(https://www.crmbrokers.com.au/wp-content/uploads/2017/11/Travel.jpg);
     background-size: cover;
     background-attachment: fixed;
+    color: white;
 }
 
 .container {
@@ -64,18 +66,21 @@ html {
     width: 100%;
     margin: 40px auto;
     text-align: center;
+    font-size: 18px;
 }
 
 .read {
     width: 100%;
     margin: auto;
     text-align: center;
+    font-size: 18px;
 }
 
 .block2 {
     background-image: url(https://thedragontrip.com/wp-content/uploads/2018/04/18Nikko-cyuzenji-lake-1024x683.jpg);
     background-size: cover;
     background-attachment: fixed;
+    color: white;
 }
 
 .container2 {
@@ -118,6 +123,7 @@ html {
 .block3 {
     background-image: url(https://images.pexels.com/photos/258109/pexels-photo-258109.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
     background-size: cover;
+    color: white;
     background-attachment: fixed;
 }
 
